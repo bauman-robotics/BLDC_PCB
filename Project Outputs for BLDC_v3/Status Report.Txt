@@ -1,12 +1,21 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : Project [BLDC_v3.PrjPcb]
-   Generated File[BLDC_v4.TXT]
-   Generated File[BLDC_v4.LDP]
-   Generated File[BLDC_v4.DRR]
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [BLDC_v3.PrjPcb]
+   Generated File[BLDC_v4.GTO]
+   Generated File[BLDC_v4.GTS]
+   Generated File[BLDC_v4.GTL]
+   Generated File[BLDC_v4.G1]
+   Generated File[BLDC_v4.G2]
+   Generated File[BLDC_v4.GBL]
+   Generated File[BLDC_v4.GBS]
+   Generated File[BLDC_v4.GBO]
+   Generated File[BLDC_v4.GKO]
+   Generated File[BLDC_v4.RUL]
+   Generated File[BLDC_v4.EXTREP]
+   Generated File[BLDC_v4.REP]
 
 
-Files Generated   : 3
+Files Generated   : 12
 Documents Printed : 0
 
-Finished Output Generation At 20:03:36 On 31.05.2020
+Finished Output Generation At 21:47:26 On 13.06.2020
